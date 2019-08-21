@@ -1,3 +1,3 @@
 # HelloWorld
-I have created this as an task from Rhesus Tech
-i have taken help grom google to create this but i know hot to do and learnt this flask
+I have done research for this task for Rhesus tech.
+this is my first attempt to make this type of application
